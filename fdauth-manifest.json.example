@@ -1,0 +1,10 @@
+{
+    "server-name": "fediAuth Server",
+    "server-description": "A fediAuth server instance.",
+    "server-base-url": "https://sampleserver.fediauth.com:3000",
+    "server-terms-url": "https://fediauth.com/terms",
+    "server-privacy-url": "https://fediauth.com/privacy",
+    "server-logo": "https://fediauth.com/logo.png",
+    "allow-registration": true,
+    "use-registration-password": false
+}
